@@ -1,0 +1,5 @@
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "Barra sobre el prompt con el avance del contexto (tokens usados vs ventana)."
+}
